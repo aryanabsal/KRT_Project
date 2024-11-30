@@ -29,5 +29,5 @@ You Can See Kristall Token Contract on sepolia Etherscan : 0xad7E75faeD931fD4158
 
 ## Authors
 
-Aryan Absalan , null
+[Aryan Absalan:waxing_crescent_moon:](https://github.com/aryanabsal) , null
 
